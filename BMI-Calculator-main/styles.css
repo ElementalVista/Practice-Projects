@@ -1,0 +1,50 @@
+
+body{
+    background: linear-gradient(to right, rgb(242, 112, 156), rgb(255, 148, 114));
+}
+.center{
+    background-color: whitesmoke;
+    margin: 30vh auto;
+    padding: 10px;
+    width: 300px;
+    text-align: center;
+    border: 2px solid;
+    border-radius: 2%;
+    box-shadow: 0 6px 6px rgba(0, 0, 0, 0.6);
+}
+
+.weight{
+    background-color: transparent;
+    box-shadow: 0 6px 6px rgba(0, 0, 0, 0.6);
+    border-radius: 5px;
+}
+
+.height{
+    background-color: transparent;
+    box-shadow: 0 6px 6px rgba(0, 0, 0, 0.6);
+    border-radius: 5px;
+}
+
+h1{
+    
+    padding-bottom: 20px;
+}
+
+.input{
+padding-bottom: 30px;
+
+}
+
+.display-bmi{
+    display: none;
+}
+.submit{
+    background-color: transparent;
+    box-shadow: 0 6px 6px rgba(0, 0, 0, 0.6);
+    height: 30px;
+    width: 70px;
+}
+
+footer{
+text-align: center; 
+}
