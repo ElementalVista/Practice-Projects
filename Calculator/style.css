@@ -1,0 +1,30 @@
+.box{
+    display: grid;
+    margin: 0 auto;
+    padding: 30vh;
+    width: 35vh;
+    gap: 5px;
+    grid-template-columns: repeat(4, 80px) ;
+    grid-template-rows: repeat(7, 40px);
+ 
+}
+
+#text-box{
+text-align: right;
+float: right;
+grid-column: 1/5;
+}
+
+button{
+    height: 3.8vh;
+    border-radius: 5px;
+}
+
+#equal{
+
+}
+
+#plus{
+  
+}
+
